@@ -1,0 +1,23 @@
+{
+  "name": "no-time-no-money",
+  "version": "1.0.0",
+  "description": "Hey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacktomssis/no-time-no-money.git"
+  },
+  "dependencies": {
+    "ace-tooper": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacktomssis/no-time-no-money/issues"
+  },
+  "homepage": "https://github.com/jacktomssis/no-time-no-money#readme"
+}
